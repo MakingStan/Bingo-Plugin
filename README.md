@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Bingo
+A plugin for osrs bingo
